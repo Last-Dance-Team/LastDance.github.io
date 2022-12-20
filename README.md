@@ -1,3 +1,4 @@
+# Paper Atlas
 # Group Name: Last Dance  ( T2334 )
 Project Name: Paper Atlas  
 Team Members (Bilkent ID - Name Surname - Email):  
@@ -14,8 +15,10 @@ Paper Atlas will be a web application available on all modern web browsers. With
 
 <h2 id="reports">Reports</h2>
 <a href="T2334_Project_Specifications_Report.pdf">Project Specifications report</a>
+
 <a href="T2334_Analysis_Requirements_Report.pdf">Analysis and Requirement report</a>
 
 <h2 id="repositories">Repositories</h2>
 <a href="https://github.com/Last-Dance-Team/PaperAtlas">This site</a>
+
 <a href="https://github.com/Last-Dance-Team/PaperAtlas-Implemention">Paper Atlas implementation</a>
