@@ -1,6 +1,3 @@
-# Paper Atlas
-Bla bla 
-
 # Group Name: Last Dance  ( T2334 )
 Project Name: Paper Atlas  
 Team Members (Bilkent ID - Name Surname - Email):  
