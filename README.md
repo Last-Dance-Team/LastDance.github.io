@@ -1,6 +1,6 @@
-# Paper Atlas
+# <a href= "https://paper-atlas-frontend.onrender.com"> # Paper Atlas </a>
 # Group Name: Last Dance  ( T2334 )
-Project Name: Paper Atlas  
+Project Name: Paper Atlas   
 Team Members (Bilkent ID - Name Surname - Email):  
 1) 21803399 - Ahmet Hakan Yılmaz - hakan.yilmaz@ug.bilkent.edu.tr  
 2) 21803504 - Akın Kutlu- akin.kutlu@ug.bilkent.edu.tr  
@@ -17,6 +17,10 @@ Paper Atlas will be a web application available on all modern web browsers. With
 <a href="T2334_Project_Specifications_Report.pdf">Project Specifications report</a>
 
 <a href="T2334_Analysis_Requirements_Report.pdf">Analysis and Requirement report</a>
+
+<a href="Detailed_Design_Report.pdf">Detailed Design report</a>
+
+<a href="T2334_FinalReport.pdf">Final report</a>
 
 <h2 id="repositories">Repositories</h2>
 <a href="https://github.com/Last-Dance-Team/PaperAtlas">This site</a>
