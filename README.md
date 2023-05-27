@@ -12,6 +12,7 @@ Supervisor: Uğur Doğrusöz
 Description:
 Paper Atlas will be a web application available on all modern web browsers. With Paper Atlas users can visualize the hierarchy of research papers as a graph-based and interactive structure in order to find the most relevant paper to their topic. The goal of this project is to enhance the way academicians and students conduct their research by providing a better way to find papers that best match their research topic by showing the hierarchy of papers related to the input paper of the user. This application will show the papers as nodes with edges specifying which one references which one and which one is being referenced by which. The users will be able to read the details such as name, keywords, and abstract by clicking on the node of a paper. A link to the original paper will be available as well. The graph will be interactive, in other words, the users can move the nodes around, zoom in and out, apply layouts, and highlight nodes. Users can filter their results by time interval, keywords, author, and publication journal. Users can also search authors or keywords instead of paper titles. In this case, relative nodes will be shown for authors or keywords. The application will also provide extended features such as grouping of the nodes and ranking papers by their importance.
 
+<a href="https://paper-atlas-frontend.onrender.com">Paper Atlas</a>
 
 <h2 id="reports">Reports</h2>
 <a href="T2334_Project_Specifications_Report.pdf">Project Specifications report</a>
@@ -22,7 +23,11 @@ Paper Atlas will be a web application available on all modern web browsers. With
 
 <a href="T2334_FinalReport.pdf">Final report</a>
 
+<a href="Final_Presentation.pdf">Final Presentation</a>
+
 <h2 id="repositories">Repositories</h2>
+
 <a href="https://github.com/Last-Dance-Team/PaperAtlas">This site</a>
 
 <a href="https://github.com/Last-Dance-Team/PaperAtlas-Implemention">Paper Atlas implementation</a>
+
